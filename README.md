@@ -1,1 +1,1 @@
-# beginner-app-ideas
+# Tier 1: Beginner Projects
